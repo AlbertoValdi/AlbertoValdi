@@ -82,11 +82,6 @@
     Peón de pintura 
     Pinturas Rirri S.L. | Granada
 
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-## Licencia
-Licencia bajo la cual se distribuye el proyecto.
-
 <!--
 **AlbertoValdi/AlbertoValdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
