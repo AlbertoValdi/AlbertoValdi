@@ -1,6 +1,8 @@
-# *¡Hola! me llamo Alberto Valdivia*
+# *¡Hola! Me llamo Alberto Valdivia*
 
-## Back-end Developer | JAVA
+
+## Back-end Junior Developer | JAVA
+Buscando mi primera oferta laboral como Desarrollador Junior.
 
 
 Soy estudiante de DAM por la UAX. Tengo 36 años, 19-Noviembre-1987. 🏠 Vivo en Granada, España.
@@ -11,10 +13,25 @@ Desde Octubre de 2023 comienzo a cursar Técnico Superior de Desarrollo de Aplic
 
 Me gusta mucho entender el porqué de cómo funcionan las cosas por lo que más me gusta es el Back-end y todo el entresijo de código que existe detrás de un software.
 
-### Habilidades:
- - Java
- - SQL
- - XML
+### Contacto:
+- email: alberto.valdivia.cantero@gmail.com
+- 
+
+### Lenguajes:
+
+[![My Skills](https://skillicons.dev/icons?i=java,python&theme=light)](https://skillicons.dev)
+
+### Base de Datos:
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=light)](https://skillicons.dev)
+
+### Herramientas:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord&theme=light)](https://skillicons.dev)
+
+### IDE´s:
+
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://skillicons.dev)
 
 ###
 * Busco participar en Open Source Projects para seguir aprendiendo como desarrollador.
