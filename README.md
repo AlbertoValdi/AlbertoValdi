@@ -1,4 +1,4 @@
-#  __Proceso de elabroración del Reto 2 en Entornos de Desarrollo__
+<!--#  __Proceso de elabroración del Reto 2 en Entornos de Desarrollo__
 ----
 ## *¿En qué se basa?*
 
@@ -30,7 +30,6 @@
   la comunicación dentro de un grupo de desarrollo.
 
 
-<!--
 **AlbertoValdi/AlbertoValdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
