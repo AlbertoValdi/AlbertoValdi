@@ -1,3 +1,32 @@
+# *¡Hola! me llamo Alberto Valdivia*
+
+## Back-end Developer | JAVA
+
+
+Soy estudiante de DAM por la UAX. Tengo 36 años, 19-Noviembre-1987. 🏠 Vivo en Granada, España.
+
+Entusiasta del desarrollo de software. Me divierte el hecho de investigar y contínuamente aprender para resolver todo tipo de retos.
+Tengo afición por la lectura 📖, el bajo 🎸, correr 🏃 y las motos 🏍️.
+Desde Octubre de 2023 comienzo a cursar Técnico Superior de Desarrollo de Aplicaciones Multiplataforma en la Universidad Alfonso X El Sabio, para poder dedicarme a un mundo que me ha apasionado por mucho tiempo pero no había tenido la oportunidad para formarme para aportar mi granito a este gran e increíble mundo del desarrollo de software.
+
+Me gusta mucho entender el porqué de cómo funcionan las cosas por lo que más me gusta es el Back-end y todo el entresijo de código que existe detrás de un software.
+
+### Habilidades:
+ - Java
+ - SQL
+ - XML
+
+###
+* Busco participar en Open Source Projects para seguir aprendiendo como desarrollador.
+* El saber nunca ocupa lugar, por lo que me encanta aprender habilidades y conocimientos nuevos.
+
+
+
+
+
+
+
+
 <!--#  __Proceso de elabroración del Reto 2 en Entornos de Desarrollo__
 ----
 ## *¿En qué se basa?*
