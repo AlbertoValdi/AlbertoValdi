@@ -15,7 +15,6 @@ Me gusta mucho entender el porqué de cómo funcionan las cosas y todo el entres
 
 ### Contacto:
 - email: alberto.valdivia.cantero@gmail.com
-- teléfono: +34 622384728
 
 ### Lenguajes:
 
