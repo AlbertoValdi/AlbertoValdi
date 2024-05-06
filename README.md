@@ -1,7 +1,7 @@
 # *¡Hola! Me llamo Alberto Valdivia*
 
 
-## Junior Developer | JAVA
+## | Junior Developer | 
 Buscando mi primera oferta laboral como Desarrollador Junior.
 
 
